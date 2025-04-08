@@ -17,7 +17,7 @@ A 3D printed geometric lantern that uses an Arduino to project patterns through 
 
 - `itsmakingthings_Geometry_Lantern_Sketch.zip` – Arduino sketch
 - `README.md` – This file
-- `LICENSE` – License
+- `LICENSE` – License Creative Commons (4.0 International License) Attribution-NonCommercial
 
 ---
 

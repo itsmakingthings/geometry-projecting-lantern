@@ -9,7 +9,7 @@ A 3D printed geometric lantern that uses an Arduino to project patterns through 
 
 ## 📷 Preview
 
-![Lantern Image](geometry-projecting-lantern/Media/Lantern_02.jpg)
+![Lantern Image](Media/Lantern_02.jpg)
 
 ---
 
